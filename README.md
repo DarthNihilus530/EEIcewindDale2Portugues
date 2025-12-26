@@ -305,7 +305,6 @@
 | Greater Weapon Focus           | Foco em Arma Maior                            |
 | Greater Weapon Specialization  | Especialização em Arma Maior                  |
 
-
 ---
 
 ## 🛠️ Talentos de Criação de Itens
@@ -320,7 +319,6 @@
 | Craft Wondrous Item            | Criar Item Maravilhoso            |
 | Forge Ring                     | Forjar Anel                       |
 | Scribe Scroll                  | Escrever Pergaminho               |
-
 
 ---
 
@@ -338,4 +336,32 @@
 | Silent Spell    | Magia Silenciosa       |
 | Still Spell     | Magia Sem Gestos       |
 | Widen Spell     | Ampliar Magia          |
+
+---
+
+## ✨ Magias de 0º Nível — Feiticeiro/Mago (Cantrips)
+
+| Escola | Inglês              | Português           |
+|--------|---------------------|---------------------|
+| Abjuração | Resistance        | Resistência         |
+| Conjuração | Acid Splash      | Raio de Ácido       |
+| Adivinhação | Detect Poison   | Detectar Venenos    |
+| Adivinhação | Detect Magic    | Detectar Magia      |
+| Adivinhação | Read Magic      | Ler Magias          |
+| Encantamento | Daze           | Pasmar              |
+| Evocação | Dancing Lights     | Globos de Luz       |
+| Evocação | Flare              | Brilho              |
+| Evocação | Light              | Luz                 |
+| Evocação | Ray of Frost       | Raio de Gelo        |
+| Ilusão | Ghost Sound         | Som Fantasma        |
+| Necromancia | Disrupt Undead  | Romper Morto-Vivo   |
+| Necromancia | Touch of Fatigue| Toque da Fadiga     |
+| Transmutação | Mage Hand      | Mãos Mágicas        |
+| Transmutação | Mending        | Consertar           |
+| Transmutação | Message        | Mensagem            |
+| Transmutação | Open/Close     | Abrir/Fechar        |
+| Universal | Arcane Mark       | Marca Arcana        |
+| Universal | Prestidigitation | Prestidigitação     |
+
+---
 
