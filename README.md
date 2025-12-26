@@ -418,5 +418,128 @@
 | Transmutação | Magic Weapon                | Arma Mágica                                 |
 | Transmutação | Reduce Person               | Reduzir Pessoa                              |
 
+---
+
+## ✨ Magias de 2º Nível — Feiticeiro/Mago
+
+| Escola | Inglês                     | Português                         |
+|--------|-----------------------------|-----------------------------------|
+| Abjuração | Arcane Lock              | Tranca Arcana                     |
+| Abjuração | Obscure Object           | Obscurecer Objeto                 |
+| Abjuração | Protection from Arrows   | Proteção Contra Flechas           |
+| Abjuração | Resist Energy            | Resistência a Elementos           |
+| Abjuração | Minor Elemental Barrier  | Barreira Elemental Menor          |
+| Conjuração | Fog Cloud               | Névoa                             |
+| Conjuração | Glitterdust             | Poeira Ofuscante                  |
+| Conjuração | Melf's Acid Arrow       | Flecha Ácida de Melf              |
+| Conjuração | Summon Monster II       | Invocar Criaturas II              |
+| Conjuração | Summon Swarm            | Invocar Enxames                   |
+| Conjuração | Web                     | Teia                              |
+| Adivinhação | Detect Thoughts        | Detectar Pensamentos              |
+| Adivinhação | Locate Object          | Localizar Objetos                 |
+| Adivinhação | See Invisibility       | Ver o Invisível                   |
+| Adivinhação | Power Word Sleep       | Palavra de Poder: Sono            |
+| Adivinhação | Identify Creature      | Identificar Criatura              |
+| Encantamento | Daze Monster          | Pasmar Monstro                    |
+| Encantamento | Tasha's Hideous Laughter | Riso Histérico de Tasha       |
+| Encantamento | Touch of Idiocy       | Toque da Idiotice                 |
+| Evocação | Continual Flame           | Chama Contínua                    |
+| Evocação | Darkness                  | Escuridão                         |
+| Evocação | Flaming Sphere           | Esfera Flamejante                 |
+| Evocação | Gust of Wind             | Lufada de Vento                   |
+| Evocação | Scorching Ray            | Raio Ardente                      |
+| Evocação | Shatter                  | Despedaçar                        |
+| Evocação | Aganazzar's Scorcher     | Chama de Aganazzar                |
+| Evocação | Decastave                | Decajado                          |
+| Evocação | Gedlee's Electric Loop   | Laço Elétrico de Gedlee           |
+| Ilusão | Blur                        | Nublar                            |
+| Ilusão | Hypnotic Pattern           | Padrão Hipnótico                  |
+| Ilusão | Invisibility               | Invisibilidade                    |
+| Ilusão | Leomund’s Trap             | Armadilha de Leomund              |
+| Ilusão | Magic Mouth                | Boca Encantada                    |
+| Ilusão | Minor Image                | Imagem Menor                      |
+| Ilusão | Mirror Image               | Reflexos                          |
+| Ilusão | Misdirection               | Confundir Detecção                |
+| Necromancia | Blindness/Deafness   | Cegueira/Surdez                   |
+| Necromancia | Command Undead        | Comandar Mortos-vivos             |
+| Necromancia | False Life            | Vitalidade Ilusória               |
+| Necromancia | Ghoul Touch           | Toque do Carniçal                 |
+| Necromancia | Scare                 | Aterrorizar                       |
+| Necromancia | Spectral Hand         | Mão Espectral                     |
+| Necromancia | Horror                | Horror                            |
+| Necromancia | Death Armor           | Armadura da Morte                 |
+| Transmutação | Alter Self          | Alterar-se                        |
+| Transmutação | Bear's Endurance     | Vigor do Urso                     |
+| Transmutação | Bull's Strength      | Força do Touro                    |
+| Transmutação | Cat's Grace          | Agilidade do Gato                 |
+| Transmutação | Darkvision           | Visão no Escuro                   |
+| Transmutação | Eagle's Splendor     | Esplendor da Águia                |
+| Transmutação | Fox's Cunning        | Astúcia da Raposa                 |
+| Transmutação | Knock                | Arrombar                          |
+| Transmutação | Levitate             | Levitação                         |
+| Transmutação | Owl’s Wisdom         | Sabedoria da Coruja               |
+| Transmutação | Pyrotechnics         | Pirotecnia                        |
+| Transmutação | Rope Trick           | Truque da Corda                   |
+| Transmutação | Spider Climb         | Patas de Aranha                   |
+| Transmutação | Whispering Wind      | Vento Sussurrante                 |
+| Transmutação | Translocation Trick  | Truque de Translocação            |
+
+
+## ✨ Magias de 3º Nível — Feiticeiro/Mago
+
+| Escola | Inglês                                   | Português                                   |
+|--------|-------------------------------------------|---------------------------------------------|
+| Abjuração | Dispel Magic                          | Dissipar Magia                              |
+| Abjuração | Explosive Runes                       | Runas Explosivas                            |
+| Abjuração | Magic Circle against Chaos/Evil/Good/Law | Círculo Mágico Contra Caos/Mal/Bem/Ordem |
+| Abjuração | Nondetection                          | Dificultar Detecção                         |
+| Abjuração | Protection from Energy                | Proteção Contra Elementos                  |
+| Abjuração | Protection from Fire                  | Proteção Contra Fogo                       |
+| Abjuração | Protection from Lightning             | Proteção Contra Raio                       |
+| Conjuração | Phantom Steed                        | Montaria Fantasmagórica                    |
+| Conjuração | Sepia Snake Sigil                    | Selo da Serpente Sépia                     |
+| Conjuração | Sleet Storm                          | Nevasca                                    |
+| Conjuração | Stinking Cloud                       | Névoa Fétida                               |
+| Conjuração | Summon Monster III                   | Invocar Criaturas III                     |
+| Conjuração | Ghost Armor                          | Armadura Fantasmal                        |
+| Adivinhação | Arcane Sight                       | Visão Arcana                               |
+| Adivinhação | Clairaudience/Clairvoyance          | Clarividência/Clariaudiência               |
+| Adivinhação | Tongues                            | Idiomas                                    |
+| Encantamento | Deep Slumber                      | Sono Profundo                              |
+| Encantamento | Heroism                           | Heroísmo                                   |
+| Encantamento | Hold Person                       | Imobilizar Pessoa                          |
+| Encantamento | Rage                              | Fúria                                      |
+| Encantamento | Suggestion                        | Sugestão                                   |
+| Encantamento | Emotion: Rage                     | Emoção: Fúria                              |
+| Evocação | Daylight                              | Luz do Dia                                 |
+| Evocação | Fireball                              | Bola de Fogo                               |
+| Evocação | Leomund’s Tiny Hut                   | Pequeno Refúgio de Leomund                 |
+| Evocação | Lightning Bolt                       | Relâmpago                                  |
+| Evocação | Wind Wall                            | Muralha de Vento                           |
+| Evocação | Icelance                             | Lança de Gelo                              |
+| Evocação | Lance of Disruption                 | Lança da Disrupção                         |
+| Evocação | Melf's Minute Meteors               | Meteoros Miúdos de Melf                   |
+| Ilusão | Displacement                          | Deslocamento                               |
+| Ilusão | Illusory Script                       | Escrita Ilusória                           |
+| Ilusão | Invisibility Sphere                  | Esfera de Invisibilidade                  |
+| Ilusão | Major Image                           | Imagem Maior                               |
+| Ilusão | Dispel Illusions                     | Dissipar Ilusões                           |
+| Necromancia | Gentle Repose                   | Descanso Tranquilo                        |
+| Necromancia | Halt Undead                      | Imobilizar Mortos-Vivos                   |
+| Necromancia | Ray of Exhaustion                | Raio de Exaustão                           |
+| Necromancia | Vampiric Touch                  | Toque Vampírico                           |
+| Necromancia | Skull Trap                      | Armadilha de Caveira                      |
+| Transmutação | Blink                           | Piscar                                     |
+| Transmutação | Flame Arrow                     | Flecha de Chamas                          |
+| Transmutação | Fly                             | Voo                                        |
+| Transmutação | Gaseous Form                    | Forma Gasosa                              |
+| Transmutação | Haste                           | Velocidade                                |
+| Transmutação | Keen Edge                       | Lâmina Afiada                             |
+| Transmutação | Magic Weapon, Greater           | Arma Mágica Maior                         |
+| Transmutação | Secret Page                    | Página Secreta                            |
+| Transmutação | Shrink Item                    | Encolher Item                             |
+| Transmutação | Slow                           | Lentidão                                  |
+| Transmutação | Water Breathing                | Respirar na Água                          |
+| Transmutação | Throw                          | Lançar                                    |
 
 ---
