@@ -365,3 +365,58 @@
 
 ---
 
+## ✨ Magias de 1º Nível — Feiticeiro/Mago
+
+| Escola | Inglês                              | Português                                   |
+|--------|-------------------------------------|---------------------------------------------|
+| Abjuração | Alarm                           | Alarme                                      |
+| Abjuração | Endure Elements                 | Suportar Elementos                          |
+| Abjuração | Hold Portal                     | Cerrar Portas                               |
+| Abjuração | Protection from Chaos/Evil/Good/Law | Proteção Contra Caos/Mal/Bem/Ordem      |
+| Abjuração | Shield                          | Escudo Arcano                               |
+| Abjuração | Reflect Attack                  | Refletir Ataque                             |
+| Conjuração | Grease                         | Área Escorregadia / Graxa                   |
+| Conjuração | Mage Armor                     | Armadura Arcana                             |
+| Conjuração | Mount                          | Montaria Arcana                             |
+| Conjuração | Obscuring Mist                 | Névoa Obscurescente                         |
+| Conjuração | Summon Monster I               | Invocar Criaturas I                         |
+| Conjuração | Unseen Servant                 | Servo Invisível                             |
+| Conjuração | Simple Summoning               | Invocação Simples                           |
+| Adivinhação | Comprehend Languages          | Compreender Idiomas                         |
+| Adivinhação | Detect Secret Doors           | Detectar Portas Secretas                   |
+| Adivinhação | Detect Undead                 | Detectar Mortos-Vivos                      |
+| Adivinhação | Identify                      | Identificação                               |
+| Adivinhação | True Strike                   | Ataque Certeiro                             |
+| Encantamento | Charm Person                | Enfeitiçar Pessoa                           |
+| Encantamento | Hypnotism                   | Hipnotismo                                  |
+| Encantamento | Sleep                       | Sono                                        |
+| Evocação | Burning Hands                   | Mãos Flamejantes                            |
+| Evocação | Magic Missile                  | Mísseis Mágicos                             |
+| Evocação | Shocking Grasp                 | Toque Chocante                              |
+| Evocação | Tenser’s Floating Disk         | Disco Flutuante de Tenser                  |
+| Evocação | Chromatic Orb                  | Orbe Cromática                              |
+| Evocação | Ice Dagger                     | Adaga de Gelo                               |
+| Ilusão | Color Spray                     | Leque Cromático                             |
+| Ilusão | Disguise Self                   | Transformação Momentânea                   |
+| Ilusão | Nystul’s Magic Aura             | Aura Mágica de Nystul                      |
+| Ilusão | Silent Image                    | Imagem Silenciosa                           |
+| Ilusão | Ventriloquism                  | Ventriloquismo                              |
+| Ilusão | Spook                           | Assustar                                    |
+| Ilusão | Reflected Image                | Imagem Refletida                            |
+| Ilusão | Vanish                          | Desaparecer                                 |
+| Ilusão | Perception Filter               | Filtro de Percepção                         |
+| Necromancia | Cause Fear                  | Causar Medo                                 |
+| Necromancia | Chill Touch                 | Toque Macabro                               |
+| Necromancia | Ray of Enfeeblement          | Raio do Enfraquecimento                    |
+| Necromancia | Larloch's Minor Drain        | Dreno Menor de Larloch                     |
+| Transmutação | Animate Rope               | Animar Cordas                               |
+| Transmutação | Enlarge Person              | Aumentar Pessoa                             |
+| Transmutação | Erase                        | Apagar                                      |
+| Transmutação | Expeditious Retreat         | Recuo Acelerado                             |
+| Transmutação | Feather Fall                | Queda Suave                                 |
+| Transmutação | Jump                         | Salto                                       |
+| Transmutação | Magic Weapon                | Arma Mágica                                 |
+| Transmutação | Reduce Person               | Reduzir Pessoa                              |
+
+
+---
