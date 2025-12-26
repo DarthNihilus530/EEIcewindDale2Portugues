@@ -4,12 +4,11 @@
 
 ## 🌑 Raça / Habilidades Gerais
 
-```markdown
 | Inglês        | Português           |
 |---------------|---------------------|
 | Darkvision    | Visão no Escuro     |
 | Stonecunning  | Ligação com Pedras  |
-```
+
 
 ---
 
